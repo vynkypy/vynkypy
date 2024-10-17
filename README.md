@@ -22,7 +22,7 @@ I'm a skilled **Data Analyst** with a passion for turning raw data into actionab
 ---
 
 ### 🚀 **Projects**  
-- **[Insider Trading Detection](https://github.com/vynkypy/insider-trading)**  
+- **[Insider Trading Detection](https://github.com/vynkypy/Insider-Trading-Detection)**  
    *Analyzed stock price movements using Pandas and Yahoo Finance, with interactive visualizations via Plotly.*  
 - **CPV-Auto Platform Development & Security Enhancement**  
    *Developed Python scripts to enhance platform security, reducing risks by 15%.*  
