@@ -29,7 +29,7 @@ I'm a skilled **Data Analyst** with a passion for turning raw data into actionab
 - **[Pune Property Analysis](https://github.com/vynkypy/Pune_Property_Analysis_Project)**  
    *Built Power BI dashboards to analyze property trends in Pune with forecasts based on historical data.*
 - **[Brazilian E-commerce Analysis](https://github.com/vynkypy/olist-ecommerce-analysis)**
-  *An analysis of the Olist e-commerce dataset to uncover insights and trends in online retail using SQL*
+   *An analysis of the Olist e-commerce dataset to uncover insights and trends in online retail using SQL*
 - **Biotech Vaccine Research Analysis**  
    *Used SQL to uncover trends in vaccine development data.*  
 
