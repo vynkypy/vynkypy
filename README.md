@@ -1,7 +1,5 @@
 # Hi there, I'm Vynkatesh Pandit 👋  
 ![Profile Views](https://komarev.com/ghpvc/?username=vynkypy&color=blue)
-![Followers](https://img.shields.io/github/followers/vynkypy?style=social)
-![Stars](https://img.shields.io/github/stars/vynkypy?style=social)
 
 **`Data Analyst | Python | SQL | BI Tools`**  
 
