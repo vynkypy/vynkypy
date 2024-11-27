@@ -20,6 +20,8 @@ I'm a skilled **Data Analyst** with a passion for turning raw data into actionab
 ---
 
 ### 🚀 **Projects**  
+- **[Banking Data Analysis](https://github.com/vynkypy/Banking-Data-Analysis)**
+  *Banking Data Analysis project to generate synthetic data, explore customer demographics, account details, and transaction trends using SQL and Python.
 - **[Insider Trading Detection](https://github.com/vynkypy/Insider-Trading-Detection)**  
    *Analyzed stock price movements using Pandas and Yahoo Finance, with interactive visualizations via Plotly.*  
 - **CPV-Auto Platform Development & Security Enhancement**  
