@@ -23,7 +23,9 @@ I'm a skilled **Data Analyst** with a passion for turning raw data into actionab
 - **[Banking Data Analysis](https://github.com/vynkypy/Banking-Data-Analysis)**
   *Banking Data Analysis project to generate synthetic data, explore customer demographics, account details, and transaction trends using SQL and Python.
 - **[Insider Trading Detection](https://github.com/vynkypy/Insider-Trading-Detection)**  
-   *Analyzed stock price movements using Pandas and Yahoo Finance, with interactive visualizations via Plotly.*  
+   *Analyzed stock price movements using Pandas and Yahoo Finance, with interactive visualizations via Plotly.*
+- **[Patients Medication Insights](https://github.com/vynkypy/Patients-Medication-Insights)**
+   *Analyzed patients medication prescription data in Power BI*
 - **CPV-Auto Platform Development & Security Enhancement**  
    *Developed Python scripts to enhance platform security, reducing risks by 15%.*  
 - **[Pune Property Analysis](https://github.com/vynkypy/Pune_Property_Analysis_Project)**  
