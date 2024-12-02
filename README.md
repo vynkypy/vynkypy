@@ -10,7 +10,7 @@ I'm a skilled **Data Analyst** with a passion for turning raw data into actionab
 ### 👨‍💻 **Technical Skills**  
 `Python` · `SQL` · `Power BI` · `Tibco Spotfire` · `Azure` · `AWS` · `Jupyter Notebook`  
 
-- **Languages:** Python (Pandas, NumPy, Matplotlib), SQL, C, C++  
+- **Programming Languages:** Python (Pandas, NumPy, Matplotlib), SQL, DAX, C, C++  
 - **BI Tools:** Power BI, Tibco Spotfire  
 - **Databases:** MySQL, PostgreSQL  
 - **Cloud Platforms:** Azure, AWS (Basic Knowledge)  
