@@ -25,13 +25,13 @@ I'm a skilled **Data Analyst** with a passion for turning raw data into actionab
 - **[Insider Trading Detection](https://github.com/vynkypy/Insider-Trading-Detection)**  
    *Analyzed stock price movements using Pandas and Yahoo Finance, with interactive visualizations via Plotly.*
 - **[Patients Medication Insights](https://github.com/vynkypy/Patients-Medication-Insights)**
-   *Analyzed patients medication prescription data in Power BI*
-- **CPV-Auto Platform Development & Security Enhancement**  
-   *Developed Python scripts to enhance platform security, reducing risks by 15%.*  
+   *Analyzed patients medication prescription data in Power BI* 
 - **[Pune Property Analysis](https://github.com/vynkypy/Pune_Property_Analysis_Project)**  
    *Built Power BI dashboards to analyze property trends in Pune with forecasts based on historical data.*
 - **[Brazilian E-commerce Analysis](https://github.com/vynkypy/olist-ecommerce-analysis)**  
    *An analysis of the Olist e-commerce dataset to uncover insights and trends in online retail using SQL.*
+- **CPV-Auto Platform Development & Security Enhancement**  
+   *Developed Python scripts to enhance platform security, reducing risks by 15%.* 
 - **Biotech Vaccine Research Analysis**  
    *Used SQL to uncover trends in vaccine development data.*  
 
