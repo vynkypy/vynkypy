@@ -3,7 +3,7 @@
 
 **`Data Analyst | Python | SQL | BI Tools`**  
 
-I'm a skilled **Data Analyst** with a passion for turning raw data into actionable insights. I specialize in **Python, SQL**, and **data visualization** using **Power BI** and **Tibco Spotfire**, automating workflows to ensure efficiency. With experience in biotech and pharmaceutical sectors, I focus on building data pipelines, cleaning datasets, and creating interactive dashboards for decision-making.  
+I'm a skilled **Data Analyst** with a passion for turning raw data into actionable insights. I specialize in **Python, SQL**, and **data visualization** using **Power BI** and **Tibco Spotfire**, automating workflows to ensure efficiency. With experience in biotech and pharmaceutical, Biotech, Lifesciences, Sales and Finacne sectors, I focus on building data pipelines, cleaning datasets, and creating interactive dashboards for decision-making.  
 
 ---
 
