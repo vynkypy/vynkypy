@@ -30,6 +30,8 @@ I'm a skilled **Data Analyst** with a passion for turning raw data into actionab
    *Built Power BI dashboards to analyze property trends in Pune with forecasts based on historical data.*
 - **[Brazilian E-commerce Analysis](https://github.com/vynkypy/olist-ecommerce-analysis)**  
    *An analysis of the Olist e-commerce dataset to uncover insights and trends in online retail using SQL.*
+- **[HR Analytics](https://github.com/vynkypy/HR_Analytics_Project)**  
+   *A data-driven HR analytics project using Python to uncover insights on employee attrition, salary trends, and department performance.*
 - **CPV-Auto Platform Development & Security Enhancement**  
    *Developed Python scripts to enhance platform security, reducing risks by 15%.* 
 - **Biotech Vaccine Research Analysis**  
