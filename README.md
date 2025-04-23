@@ -35,7 +35,8 @@ I'm a skilled **Data Analyst** with a passion for turning raw data into actionab
 - **CPV-Auto Platform Development & Security Enhancement**  
    *Developed Python scripts to enhance platform security, reducing risks by 15%.* 
 - **Biotech Vaccine Research Analysis**  
-   *Used SQL to uncover trends in vaccine development data.*  
+   *Used SQL to uncover trends in vaccine development data.*
+
 
 ---
 
