@@ -37,7 +37,7 @@ I'm a skilled **Data Analyst** with a passion for turning raw data into actionab
 - **Biotech Vaccine Research Analysis**  
    *Used SQL to uncover trends in vaccine development data.*
 - **Drug Manufacturing Demand and Supply Forecast**  
-   *Used Power BI to uncover KPIs and Trends in Drug Equipment Sales in hospitals.*
+   *Used Power BI to uncover KPIs and Trends in hospital Drug Equipment Sales.*
 
 ---
 
