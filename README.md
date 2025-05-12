@@ -34,6 +34,8 @@ I'm a skilled **Data Analyst** with a passion for turning raw data into actionab
    *A data-driven HR analytics project using Python to uncover insights on employee attrition, salary trends, and department performance.*
 - **[US Candy Distrubution Sales Analysis](https://github.com/vynkypy/US_Candy_Distribution_Project)**  
    *A Power BI dashboard analyzing U.S. candy sales, production, and shipping performance to uncover insights across products, factories, and customer regions.*
+
+#### 🚀 ** Nonpublic Projects**  
 - **CPV-Auto Platform Development & Security Enhancement**  
    *Developed Python scripts to enhance platform security, reducing risks by 15%.* 
 - **Biotech Vaccine Research Analysis**  
